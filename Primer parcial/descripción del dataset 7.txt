@@ -1,3 +1,0 @@
-descripción 
-El dataset Statlog Australian Credit Approval se usa para predecir si una solicitud de credito sera aprobada o no, a partir de caracteristicas financieras y personales del solicitante.  
-El objetivo del trabajo es entrenar un modelo de clasificacion que minimice el error y maximice la precisión, para apoyar decisiones de aprobación de crédito de forma más consistente.
